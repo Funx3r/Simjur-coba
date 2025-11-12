@@ -21,4 +21,10 @@ Singkat: proyek Next.js (App Router) sederhana yang digunakan sebagai starter un
 1. Pasang dependensi:
 ```sh
 npm install
-
+```
+dasfhdasjfhkjsdahfjkhsdajkfskdjhfjkshdfhsalhf
+hsdafkjsakjdfhjsdafhs
+sdahfjkasdfkhsdaf
+dsahfksdahfsaf
+hdafsjkksdahfasd
+dfjhdafkkf
